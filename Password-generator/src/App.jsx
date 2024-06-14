@@ -51,7 +51,7 @@ const passref= useRef(null);
           <h1 className=" text-orange-400 text-3xl font-serif pb-3">
             Password Generator
           </h1>
-          <div className="flex h-14 w-[100%]   justify-center">
+          <div className="flex h-14 w-[100%]  justify-center">
             <input
               type="text"
               value={passward}
